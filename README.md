@@ -16,9 +16,9 @@ Dieser Pc -> Computer -> Netzlaufwerk verbinden ->
 
 ## monitor
 
-1- Check the Mointor ON or OFF
-2- Check the screen settipng , Press Windows P or Desiplay Settings 
-3- Check the Cables , take all Cables ( VGA , Type-C , DVI , DisplayPort ) 
-4- Check the Drivers ( can be Docker Station Driver ) 
-5- Upgarde your GRAPHICS driver Software 
+1- Check the Mointor ON or OFF   
+2- Check the screen settipng , Press Windows P or Desiplay Settings     
+3- Check the Cables , take all Cables ( VGA , Type-C , DVI , DisplayPort )     
+4- Check the Drivers ( can be Docker Station Driver )      
+5- Upgarde your GRAPHICS driver Software       
 
